@@ -9,8 +9,7 @@ Awesome repo and tutorials for getting ready for Polkadot Metaverse Championship
 | Build you own Substrate blockchain | https://docs.substrate.io/tutorials/get-started/build-local-blockchain/ |
 | Send extrinsics from code or cli | https://github.com/paritytech/subxt |
 | Substrate frontend template (use this if you need a frontend connecting with PolkadotJS) | https://github.com/substrate-developer-hub/substrate-front-end-template |
-|ink! tutorial (solidity-like rust based smart contracts on top os Substrate) | 
-https://docs.substrate.io/tutorials/smart-contracts/ |
+|ink! tutorial (solidity-like rust based smart contracts on top os Substrate) | https://docs.substrate.io/tutorials/smart-contracts/ |
 | Awesome Substrate | https://project-awesome.org/substrate-developer-hub/awesome-substrate |
 
 ## Tutorials for ecosystem project challenges
