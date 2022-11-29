@@ -16,6 +16,8 @@ __Important note:__ code is not enough alone and a plan is also not enough alone
 |ink! tutorial (solidity-like rust based smart contracts on top os Substrate) | https://docs.substrate.io/tutorials/smart-contracts/ |
 | Write a custom pallet for Substrate | https://www.youtube.com/watch?v=o5ANk0sRxEY |
 | Awesome Substrate | https://project-awesome.org/substrate-developer-hub/awesome-substrate |
+| Substrate Playground to try Substrate | https://playground.substrate.dev/ |
+| Polkadot Technical Explainers | https://www.youtube.com/playlist?list=PLOyWqupZ-WGuAuS00rK-pebTMAOxW41W8 |
 
 ## Tutorials for ecosystem project challenges
 
@@ -28,6 +30,14 @@ Use the following materials to educate yourself about the ecosystem projects pre
 | RMRK - Learn about the specs | https://github.com/rmrk-team/rmrk-spec |
 | Momentum - Explore Kusamaverse | https://odyssey.org/explore-momentum |
 | CCTF blog - Learn about hacking web3 | https://cryptoctf.org/past-events/ |
+
+## Project Templates
+
+| Title      | Link   |
+|--------------|-----------|
+| Substrate Node Template | https://github.com/substrate-developer-hub/substrate-node-template |
+| Substrate Front-end Template | https://github.com/substrate-developer-hub/substrate-front-end-template |
+| Parachain Node Template | https://github.com/substrate-developer-hub/substrate-parachain-template |
 
 
 ## Advanced resources
