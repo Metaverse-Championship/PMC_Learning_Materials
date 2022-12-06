@@ -28,7 +28,7 @@ Use the following materials to educate yourself about the ecosystem projects pre
 | Unit Network learning materials | https://www.unit.network/learn.html |
 | KILT 101 | https://kiltprotocol.github.io/kilt-workshop-101/#/ |
 | RMRK - Learn about the specs | https://github.com/rmrk-team/rmrk-spec |
-| Momentum - Explore Kusamaverse | https://odyssey.org/explore-momentum |
+| Momentum - Explore Kusamaverse | https://discover.odyssey.org/ |
 | CCTF blog - Learn about hacking web3 | https://cryptoctf.org/past-events/ |
 
 ## Project Templates
